@@ -20,4 +20,4 @@ jobs:
     working_directory: /go/src/github.com/xpgong1/Hello
     steps:
       - checkout
-      - run: go run uest1.go
+      - run: go run test1.go
